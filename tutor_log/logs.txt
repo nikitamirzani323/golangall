@@ -1,0 +1,13 @@
+2021/12/20 00:01:04 main.go:15: This is my log message
+INFO: 2021/12/20 00:05:20 main.go:25: This is some info
+WARNING: 2021/12/20 00:05:20 main.go:26: This is some warning
+ERROR: 2021/12/20 00:05:20 main.go:27: This is some error
+INFO: 2021/12/20 00:09:50 main.go:25: This is some info
+WARNING: 2021/12/20 00:09:50 main.go:26: This is some warning
+ERROR: 2021/12/20 00:09:50 main.go:27: This is some error
+INFO: 2021/12/20 00:10:17 main.go:25: This is some info
+WARNING: 2021/12/20 00:10:17 main.go:26: This is some warning
+ERROR: 2021/12/20 00:10:17 main.go:27: This is some error
+INFO: 2021/12/20 00:10:20 main.go:25: This is some info
+WARNING: 2021/12/20 00:10:20 main.go:26: This is some warning
+ERROR: 2021/12/20 00:10:20 main.go:27: This is some error
